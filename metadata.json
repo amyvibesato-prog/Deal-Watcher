@@ -1,0 +1,8 @@
+{
+  "name": "Deal Watcher",
+  "description": "Моніторинг знижок у Steam Wishlist та безкоштовних роздач Epic Games",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
